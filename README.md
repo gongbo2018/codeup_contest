@@ -1,2 +1,7 @@
-# codeup_contest
-记录完成codeup课后练习
+# codeup 课后练习代码现实
+```
+题目列表：http://codeup.hustoj.com/contest.php
+--------------------------------------------
+记录自己学习过程中代码实现
+```
+
