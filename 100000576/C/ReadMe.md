@@ -6,4 +6,7 @@ student_data[j].no == no
 
 需要改用strcmp比较： strcmp(student_data[j].no,no) == 0
 ```
-1. 死活AC不了，不知道啥原因。
+1. 未使用多组数据测试, 改成如下就OK
+```
+while (scanf("%d", &N) != EOF){}
+```
