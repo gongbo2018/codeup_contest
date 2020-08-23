@@ -31,7 +31,7 @@ main.dSYM
 *.exe
 *.out
 *.app
-
+main
 
 # 编辑器缓存文件
 *.swp
